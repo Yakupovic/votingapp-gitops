@@ -8,7 +8,6 @@ resources:
   - vote.yaml
   - result.yaml
   - worker.yaml
-  - worker.yaml
   - ingress.yaml
 
 labels:
